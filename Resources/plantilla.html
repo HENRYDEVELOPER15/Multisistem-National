@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Document</title>
+    <style>
+        * {
+            font-family: sans-serif;
+            font-size: 8pt;
+        }
+    </style>
+
+</head>
+<body>
+    <table style="width: 100%">
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                      <!--<img src="logo.png" style="width: 1.5cm; height: 2cm;; text-align: left;" alt="">-->
+                        <td style="width:60pt;"></td>
+                        <td style=" width:auto;">
+                            <h1 style="color: blue; text-decoration: underline rgb(0, 255, 123) ;font-style: italic;font-size: 10pt;">MULTISYSTEM NACIONAL</h1>
+                            <h2 style="color: blue;font-size: 8pt;">TECNOLOGIA A SU ALCANCE</h2>
+                            <h3 style="color: rgb(5, 107, 5); font-weight: 100; font-size: 8pt;">NIT 19017624-1 </h3>
+                        </td>
+                        <td style=" width:auto;">
+                            <h3 style="color: rgb(5, 107, 5); font-weight: 100; text-align: center">TODAS LAS MARCAS Y MODELOS</h3>
+                            <p style="color: red; text-align: center; font-weight: bolder;">@ID_Informe</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3">
+                <table style="width:100%">
+                    <tr>
+                        <td style="width:10%">Empresa:</td>
+                        <td style="width:30%;border-bottom:1px solid black">@EMPRESA</td>
+                        <td style="width:10%">Direccion:</td>
+                        <td style="width:30%;border-bottom:1px solid black">@Direccion</td>
+                    </tr>
+                </table>
+
+                <table style="width:100%">
+                    <tr><td colspan="3" height="20"></td></tr>
+                    <tr>
+                        <td style="width:15%">Responsable:</td>
+                        <td style="border-bottom:1px solid black; width: 25%;">@RESPONSABLE</td>
+                        <td style="width:10%">Fecha:</td>
+                        <td style="border-bottom: 1px solid black; width: 15%;">@FECHA</td>
+                        <td style="width:15%">Telefono:</td>
+                        <td style="border-bottom: 1px solid black; width: 20%;">@TELEFONO</td>
+                    </tr>
+                </table>
+                <table style="width:100%">
+                    <tr><td colspan="3" height="20"></td></tr>
+                    <tr>
+                        <td style="width:12%">Oficina:</td>
+                        <td style="border-bottom: 1px solid black; width: 15%;">@OFICINA</td>
+                        <td style="width:20%">Ing. Mantenimiento:</td>
+                        <td style="border-bottom: 1px solid black; width: 28%">@ING</td>
+                        <td style="width:15%">Contrato:</td>
+                        <td style="border-bottom: 1px solid black; width: 10%;">@CONTRATO</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 15%">Garantia:</td>
+                        <td style="border-bottom:1px solid black; width: 5%;">@SER1</td>
+                        <td style="width: 15%">Preventivo:</td>
+                        <td style="border-bottom: 1px solid black; width: 5%;">@SER2</td>
+                        <td style="width: 15%">Correctivo:</td>
+                        <td style="border-bottom: 1px solid black; width: 5%;">@SER3</td>
+                        <td style="width: 15%">Instalación:</td>
+                        <td style="border-bottom: 1px solid black; width: 5%;">@SER4</td>
+                        <td style="width: 15%">Revisión:</td>
+                        <td style="border-bottom: 1px solid black; width: 5%;">@SER5</td>
+
+                    </tr>
+                    <tr><td colspan="3" height="10"></td></tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width:10%;">Pendiente:</td>
+                        <td style="text-align: right;">SI</td>
+                        <td style="border-bottom: 1px solid black; width: 3%;">@SIP</td>
+                        <td>NO</td>
+                        <td style="border-bottom: 1px solid black; width: 3%;">@NOP</td>
+                        <td style="width:10%;"></td>
+                        <td style="width:10%;">Facturar:</td>
+                        <td>SI</td>
+                        <td style="border-bottom: 1px solid black; width:3%;">@SIF</td>
+                        <td>NO</td>
+                        <td style="border-bottom: 1px solid black; width: 3%;">@NOF</td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td class="textoes" style="text-align: center; font-weight:bold;">Equipo</td>
+                        <td class="textoes" style="text-align: center; font-weight: bold;">Marca</td>
+                        <td class="textoes" style="text-align: center; font-weight: bold;">Modelo</td>
+                        <td class="textoes" style="text-align: center; font-weight: bold;">Serial</td>
+                    </tr>
+                    <tr>
+                        <td style="border-bottom:1px solid black; text-align: center; ">@EQUIPO</td>
+                        <td style="border-bottom:1px solid black; text-align: center;">@MARCA</td>
+                        <td style="border-bottom:1px solid black; text-align: center;">@MODELO</td>
+                        <td style="border-bottom:1px solid black; text-align: center;">@SERIAL</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 20%;">Fallas y Observaciones</td>
+                        <td style="border-bottom:1px solid black; text-align: left; width: 80%; ">@FALLAS</td>
+
+                    </tr>
+                    <tr><td colspan="3" height="10"></td></tr>
+                    <tr>
+                        <td style="width: 20%;">Acciones Correctivas</td>
+                        <td style="border-bottom: 1px solid black; text-align: left; width: 80%;">@ACCIONES</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="text-align: center; font-weight: bolder;">
+                            CAMBIO DE REPUESTOS
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width:100%;">
+                    <thead>
+                        <tr style="background-color:#D8D8D8">
+                            <th>Tipo de Repuesto</th>
+                            <th>Serial Defectuoso</th>
+                            <th>Serial Nuevo</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--<tr>
+                            <td>1</td>
+                            <td>sdafsda</td>
+                            <td>2.4</td>
+                            <td>2.4</td>
+                        </tr>-->
+                        @FILAS
+                        <tr>
+                            <td style="border: 0px !important"></td>
+                            <td style="border: 0px !important"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 10%;">Fecha y hora de Atención</td>
+                        <td style="border-bottom:1px solid black; text-align: left; ">@FECA</td>
+                        <td style="width: 10%;"></td>
+                        <td style="width: 10%;">Fecha y hora de la Solución</td>
+                        <td style="border-bottom:1px solid black; text-align: left;">@FECS</td>
+
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="3" height="20"></td></tr>
+
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+
+                    <tr>
+                        <td style="border-bottom:1px solid black; text-align: left; width: 35%; "></td>
+                        <td style="width: 10%;"></td>
+                        <td style="border-bottom:1px solid black; text-align: left; width: 35%; "></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">Fecha y hora de Atención</td>
+                        <td style="width: 10%;"></td>
+                        <td style="text-align: center;">Fecha y hora de la Solución</td>
+
+
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td colspan="3" height="20"></td></tr>
+        <tr>
+            <td colspan="3" style="text-align: center; color: blue; border-top: 3px solid blue;">
+                <p>
+                    Multisystem Nacional y/o Delmer Garzón Sánchez – email: multisystem_inirida@hotmail.com
+                    Calle 16 N° 12-33, Barrio Los Libertadores, Inírida Guainía –  Cel: 3103451481  -  3164830819
+                </p>
+            </td>
+        </tr>
+    </table>
+
+    <!--<table style="width:100%">
+        <tr>
+            <td style="width:20%"></td>
+            <td style="width:60%" align="center" valign="top">
+                <table>
+                    <tr><td align="center"><h4 style="margin:0px; color: rgb(0, 149, 255);text-decoration: underline; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 27px;">MULTISYSTEM NACIONAL</h4></td></tr>-->
+    <!-- <tr><td align="center">Direccion: av. las aguilas 123 </td></tr>
+    <tr><td align="center">Telefono: 567-546-55</td></tr> -->
+    <!--</table>
+        </td>
+        <td style="width:20%">
+            <table class="border" style="width:100%">
+                <tr><td align="center" style="background-color:#1082f4; color: white;">Informe Tecnico</td></tr>
+                <tr><td align="center" style="color: rgb(171, 23, 23);">@ID_Informe</td></tr>
+            </table>
+        </td>
+    </tr>
+
+    <tr><td colspan="3" height="20"></td></tr>
+
+    <tr>
+        <td colspan="3">
+            <table style="width:100%">
+                <tr>
+                    <td style="width:10%">Empresa:</td>
+                    <td style="width:30%;border-bottom:1px solid black">@EMPRESA</td>
+                    <td style="width:10%">Direccion:</td>
+                    <td style="width:30%;border-bottom:1px solid black">@Direccion</td>
+                </tr>
+            </table>
+
+            <table style="width:100%">
+                <tr><td colspan="3" height="20"></td></tr>
+                <tr>
+                    <td style="width:15%">Responsable:</td>
+                    <td style="border-bottom:1px solid black; width: 25%;">@RESPONSABLE</td>
+                    <td style="width:10%">Fecha:</td>
+                    <td style="border-bottom: 1px solid black; width: 15%;">@FECHA</td>
+                    <td style="width:15%">Telefono:</td>
+                    <td style="border-bottom: 1px solid black; width: 20%;">@TELEFONO</td>
+                </tr>
+            </table>
+            <table style="width:100%">
+                <tr><td colspan="3" height="20"></td></tr>
+                <tr>
+                    <td style="width:12%">Oficina:</td>
+                    <td style="border-bottom: 1px solid black; width: 15%;">@OFICINA</td>
+                    <td style="width:20%">Ing. Mantenimiento:</td>
+                    <td style="border-bottom: 1px solid black; width: 28%">@ING</td>
+                    <td style="width:15%">Contrato:</td>
+                    <td style="border-bottom: 1px solid black; width: 10%;">@CONTRATO</td>
+                </tr>
+            </table>
+        </td>
+        <td></td>
+    </tr>
+    <tr><td colspan="3" height="10"></td></tr>
+    <tr>
+        <td colspan="3">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="width: 15%">Garantia:</td>
+                    <td style="border-bottom:1px solid black; width: 5%;">@SER1</td>
+                    <td style="width: 15%">Preventivo:</td>
+                    <td style="border-bottom: 1px solid black; width: 5%;">@SER2</td>
+                    <td style="width: 15%">Correctivo:</td>
+                    <td style="border-bottom: 1px solid black; width: 5%;">@SER3</td>
+                    <td style="width: 15%">Instalación:</td>
+                    <td style="border-bottom: 1px solid black; width: 5%;">@SER4</td>
+                    <td style="width: 15%">Revisión:</td>
+                    <td style="border-bottom: 1px solid black; width: 5%;">@SER5</td>
+
+                </tr>
+                <tr><td colspan="3" height="10"></td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="width:10%;">Pendiente:</td>
+                    <td style="text-align: right;">SI</td>
+                    <td style="border-bottom: 1px solid black; width: 3%;">@SIP</td>
+                    <td>NO</td>
+                    <td style="border-bottom: 1px solid black; width: 3%;">@NOP</td>
+                    <td style="width:10%;"></td>
+                    <td style="width:10%;">Facturar:</td>
+                    <td>SI</td>
+                    <td style="border-bottom: 1px solid black; width:3%;">@SIF</td>
+                    <td>NO</td>
+                    <td style="border-bottom: 1px solid black; width: 3%;">@NOF</td>
+                </tr>
+            </table>
+        </td>
+
+    </tr>
+    <tr><td colspan="3" height="30"></td></tr>
+    <tr>
+        <td colspan="3">
+            <table style="width: 100%;">
+                <tr>
+                    <td class="textoes">Equipo</td>
+                    <td class="textoes">Marca</td>
+                    <td class="textoes">Modelo</td>
+                    <td class="textoes">Serial</td>
+                </tr>
+                <tr>
+                    <td style="border-bottom:1px solid black; text-align: center; ">@EQUIPO</td>
+                    <td style="border-bottom:1px solid black; text-align: center;">@MARCA</td>
+                    <td style="border-bottom:1px solid black; text-align: center;">@MODELO</td>
+                    <td style="border-bottom:1px solid black; text-align: center;">@SERIAL</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    <tr><td colspan="3" height="30"></td></tr>
+    <tr>
+        <td colspan="3">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="width: 20%;">Fallas y Observaciones</td>
+                    <td style="border-bottom:1px solid black; text-align: left; width: 80%; ">@FALLAS</td>
+
+                </tr>
+                <tr><td colspan="3" height="10"></td></tr>
+                <tr>
+                    <td style="width: 20%;">Acciones Correctivas</td>
+                    <td style="border-bottom: 1px solid black; text-align: left; width: 80%;">@ACCIONES</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td colspan="3" height="30"></td></tr>
+    <tr>
+        <td colspan="3">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="text-align: center; font-weight: bolder;">
+                        CAMBIO DE REPUESTOS
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <table class="border" style="width:100%;">
+                <thead>
+                    <tr style="background-color:#D8D8D8">
+                        <th>Tipo de Repuesto</th>
+                        <th>Serial Defectuoso</th>
+                        <th>Serial Nuevo</th>
+                    </tr>
+                </thead>
+                <tbody>-->
+    <!--<tr>
+        <td>1</td>
+        <td>sdafsda</td>
+        <td>2.4</td>
+        <td>2.4</td>
+    </tr>-->
+    <!--@FILAS
+                        <tr>
+                            <td style="border: 0px !important"></td>
+                            <td style="border: 0px !important"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="3" height="30"></td></tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 10%;">Fecha y hora de Atención</td>
+                        <td style="border-bottom:1px solid black; text-align: left; ">@FECA</td>
+                        <td style="width: 10%;"></td>
+                        <td style="width: 10%;">Fecha y hora de la Solución</td>
+                        <td style="border-bottom:1px solid black; text-align: left;">@FECS</td>
+
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td colspan="3" height="60"></td></tr>
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%;">
+
+                    <tr>
+                        <td style="border-bottom:1px solid black; text-align: left; width: 35%; "></td>
+                        <td style="width: 10%;"></td>
+                        <td style="border-bottom:1px solid black; text-align: left; width: 35%; "></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">Fecha y hora de Atención</td>
+                        <td style="width: 10%;"></td>
+                        <td style="text-align: center;">Fecha y hora de la Solución</td>
+
+
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>-->
+
+</body>
+</html>

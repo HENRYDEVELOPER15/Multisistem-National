@@ -1,0 +1,56 @@
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\MultiSystem.exe.config
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\MultiSystem.exe.manifest
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\MultiSystem.application
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\MultiSystem.exe
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\MultiSystem.pdb
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\itextsharp.dll
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\itextsharp.xml
+C:\Users\INIRIDA\Desktop\MultiSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.csproj.AssemblyReference.cache
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.Clientes.resources
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\ja.Form1.resources
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\ja.Form2.resources
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.Index.resources
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.loading.resources
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.Properties.Resources.resources
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.csproj.GenerateResource.cache
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.csproj.CoreCompileInputs.cache
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.exe.manifest
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.application
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSys.20F0EBDD.Up2Date
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.exe
+C:\Users\INIRIDA\Desktop\MultiSystem\obj\Debug\MultiSystem.pdb
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\MultiSystem.exe.config
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\MultiSystem.exe.manifest
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\MultiSystem.application
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\MultiSystem.exe
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\MultiSystem.pdb
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\itextsharp.dll
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\itextsharp.xml
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.csproj.AssemblyReference.cache
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.Clientes.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\ja.Form1.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\ja.Form2.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.getConexion.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.Index.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.loading.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.Properties.Resources.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.csproj.GenerateResource.cache
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.csproj.CoreCompileInputs.cache
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.exe.manifest
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.application
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.exe
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.pdb
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.FormEmpresa.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.FormImpre.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.FormClientes.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.Form_Detalles.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSystem.new_scanner.resources
+C:\Users\prohe\OneDrive\Escritorio\MI Portafolio\MultiSystem\obj\Debug\MultiSys.20F0EBDD.Up2Date
