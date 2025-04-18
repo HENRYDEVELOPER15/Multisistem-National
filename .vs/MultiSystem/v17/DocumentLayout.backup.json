@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\form_detalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:form_detalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|c:\\users\\prohe\\onedrive\\escritorio\\mi portafolio\\multisystem\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|c:\\users\\prohe\\onedrive\\escritorio\\mi portafolio\\multisystem\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\datos_impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:datos_impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|c:\\users\\prohe\\onedrive\\escritorio\\mi portafolio\\multisystem\\getconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:getconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\form_detalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:form_detalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\getconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:getconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\new_scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:new_scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2810940B-15CD-4E9C-8B87-B3F2932D85C3}|MultiSystem.csproj|solutionrelative:cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,96 +46,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:06:20.173Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Modelo.cs",
+              "RelativeDocumentMoniker": "Modelo.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Modelo.cs*",
+              "RelativeToolTip": "Modelo.cs*",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAqwJMBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:48:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "getConexion.cs",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\getConexion.cs",
+              "RelativeDocumentMoniker": "getConexion.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\getConexion.cs",
+              "RelativeToolTip": "getConexion.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:52:31.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getConexion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\getConexion.cs",
+              "RelativeDocumentMoniker": "getConexion.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\getConexion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "getConexion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:52:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:52:14.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Cache.cs",
               "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Cache.cs",
               "RelativeDocumentMoniker": "Cache.cs",
               "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Cache.cs",
               "RelativeToolTip": "Cache.cs",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAkwPUAAAAJAAAA",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:57:01.833Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:56:57.202Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-21T22:43:51.088Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "loading.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\loading.cs",
-              "RelativeDocumentMoniker": "loading.cs",
-              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\loading.cs [Dise\u00F1o]",
-              "RelativeToolTip": "loading.cs [Dise\u00F1o]",
+              "Title": "datos_Impresora.cs",
+              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\datos_Impresora.cs",
+              "RelativeDocumentMoniker": "datos_Impresora.cs",
+              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\datos_Impresora.cs",
+              "RelativeToolTip": "datos_Impresora.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:45:08.169Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form_Detalles.cs",
-              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form_Detalles.cs",
-              "RelativeDocumentMoniker": "Form_Detalles.cs",
-              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form_Detalles.cs",
-              "RelativeToolTip": "Form_Detalles.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAIwFEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:44:13.906Z",
+              "WhenOpened": "2025-03-21T22:43:47.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:43:11.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form_Detalles.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form_Detalles.cs",
-              "RelativeDocumentMoniker": "Form_Detalles.cs",
-              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form_Detalles.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form_Detalles.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:43:08.363Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "new_scanner.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\new_scanner.cs",
-              "RelativeDocumentMoniker": "new_scanner.cs",
-              "ToolTip": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\new_scanner.cs [Dise\u00F1o]",
-              "RelativeToolTip": "new_scanner.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:43:02.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -143,12 +145,11 @@
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AgIAAHoAAAAAAAAAAAAswHsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:42:44.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T16:42:44.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\prohe\\OneDrive\\Escritorio\\MI Portafolio\\MultiSystem\\Index.cs",
               "RelativeDocumentMoniker": "Index.cs",

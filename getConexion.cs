@@ -54,7 +54,9 @@ namespace MultiSystem
             Properties.Settings.Default.Save();
 
             MessageBox.Show("Configuración guardada correctamente.");
-            this.Close();
+            loading loading = new loading();
+            loading.Show();
+            this.Hide();
         }
 
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)

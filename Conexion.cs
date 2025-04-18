@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Configuration;
 using static Org.BouncyCastle.Math.EC.ECCurve;
 using MultiSystem;
+using System.Data.Common;
 
 namespace ja
 {
@@ -40,9 +41,11 @@ namespace ja
         protected SqlConnection GetConnection()
         {
 
-            return new SqlConnection(connectionString);
-
+                return new SqlConnection(connectionString);
+                 
 
         }
+
+       
     }
 }

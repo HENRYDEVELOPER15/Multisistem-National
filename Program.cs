@@ -17,17 +17,19 @@ namespace MultiSystem
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             // Verificar si la configuración está guardada
-            if (string.IsNullOrEmpty(Properties.Settings.Default.Servers) ||
-                string.IsNullOrEmpty(Properties.Settings.Default.Databases) ||
-                string.IsNullOrEmpty(Properties.Settings.Default.Usernames) ||
-                string.IsNullOrEmpty(Properties.Settings.Default.Passwords))
-            {
-                // Mostrar el formulario de conexión
-                getConexion connectionForm = new getConexion();
-                Application.Run(connectionForm);
-            }
-
-            Application.Run(new loading());
+            //if (string.IsNullOrEmpty(Properties.Settings.Default.Servers) ||
+            //    string.IsNullOrEmpty(Properties.Settings.Default.Databases) ||
+            //    string.IsNullOrEmpty(Properties.Settings.Default.Usernames) ||
+            //    string.IsNullOrEmpty(Properties.Settings.Default.Passwords))
+            //{
+            //    // Mostrar el formulario de conexión
+            //    getConexion connectionForm = new getConexion();
+            //    Application.Run(connectionForm);
+            //}
+            //Application.Run(new loading());
+            getConexion connectionForm = new getConexion();
+            Application.Run(connectionForm);
         }
+
     }
 }
